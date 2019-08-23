@@ -1,7 +1,7 @@
 # hello-world
 My First Encounter with GitHub
 
-This is Varun, caming here late in the game of learning GitHub tool, but better late than never.
+This is Varun, came here late in the game of learning GitHub tool, but better late than never.
 
 My first change on the read me file in a branch :)
 
